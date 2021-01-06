@@ -113,6 +113,7 @@ if($_POST){
     </table>
 </form>
 
-// set page footer
+//set page footer
+<?php
 include_once "layout_footer.php";
 ?>
